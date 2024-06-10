@@ -8,5 +8,8 @@
     },
     "scripts": {
         "run:live": "npx live-server . --no-browser --cors --no-css-inject"
+    },
+    "dependencies": {
+        "live-server": "^1.2.2"
     }
 }
