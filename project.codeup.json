@@ -1,0 +1,5 @@
+{
+    "run": "npm run run:live",
+    "build-file": "Dockerfile",
+    "port": 80
+}

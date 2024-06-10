@@ -1,0 +1,12 @@
+{
+    "name": "@codeup/template-static",
+    "version": "1.0.0",
+    "author": {
+        "name": "Ben Siebert",
+        "email": "hello@ben-siebert.de",
+        "url": "https://ben-siebert.de"
+    },
+    "scripts": {
+        "run:live": "npx live-server . --no-browser --cors --no-css-inject"
+    }
+}
